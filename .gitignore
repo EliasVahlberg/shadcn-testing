@@ -1,1 +1,11 @@
 .vscode
+# Node modules
+/node_modules/
+
+# Next.js build output
+/.next/
+/out/
+
+# Production
+/build/
+/public/static/
